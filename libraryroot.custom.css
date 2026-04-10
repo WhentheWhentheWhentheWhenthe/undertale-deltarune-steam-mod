@@ -4,5 +4,5 @@ body {
 }
 @font-face {
     font-family: determination;
-    src: url(https://files.catbox.moe/zx2kzd.otf);
+    src: url('./fontstorage/DTM-Mono.otf') format('opentype');
 }
