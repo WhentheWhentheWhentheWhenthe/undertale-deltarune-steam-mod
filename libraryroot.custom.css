@@ -1,4 +1,8 @@
-/**
- * @description This file styles all main steam windows
- * [Steam, Settings, Properties, Popups, Dialogs, ...]
- */
+body {
+    background-color:black;
+    font-family: determination;
+}
+@font-face {
+    font-family: determination;
+    src: url(https://files.catbox.moe/zx2kzd.otf);
+}
